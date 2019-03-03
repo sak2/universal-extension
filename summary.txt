@@ -1,0 +1,8 @@
+function (tabs) <- popup.js
+
+making content.js
+    chrome.runtime.onMessage.addListener(function (request, sender, sendResponse){
+        regexp
+
+going back to pop js 
+    set count function
